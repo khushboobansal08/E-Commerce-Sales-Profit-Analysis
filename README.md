@@ -30,6 +30,14 @@ This project analyzes an e-commerce sales dataset to uncover insights into sales
 - Sales by Customer Segment
 - Sales and Profit Distribution
 
+## Results
+
+- Identified monthly sales and profit trends.
+- Compared category-wise and sub-category-wise profitability.
+- Analyzed customer segment performance.
+- Created interactive visualizations using Plotly.
+- Generated business insights to support data-driven decision making.
+
 ## Repository Structure
 ```
 E-Commerce-Sales-Profit-Analysis/
@@ -40,11 +48,13 @@ E-Commerce-Sales-Profit-Analysis/
 ```
 
 ## Future Improvements
-- Interactive Power BI Dashboard
-- SQL Analysis
-- KPI Dashboard
-- Regional Analysis
-- Customer Lifetime Value Analysis
 
+- Add advanced business insights and recommendations
+- Perform regional and state-wise sales analysis
+- Analyze customer purchasing behavior
+- Build sales forecasting models using machine learning
+- Create interactive visualizations with Plotly
+- Optimize the analysis using SQL
+- 
 ## Author
 **Khushboo Bansal**
